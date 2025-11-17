@@ -3,7 +3,7 @@ import Header from "../components/header";
 
 export default function HomePage() {
   return (
-    <div className="w-full h-full over-flow-y-scroll ">
+    <div className="w-full h-full over-flow-y-scroll">
         <Header />
         <div className="w-full min-h-[calc(100%-100px)]">
           <Routes>

@@ -1,10 +1,12 @@
 @import "tailwindcss";
 
 @theme {
-  --color-primary: #0B1F3A;
-  --color-secondary: #D9A441;
-  --color-accent:  #0B1F3A;
-  --color-gold: #D4AF37;
+  --color-primary:#0B1F3A ;
+  --color-secondary:#1E4E7A ;
+  --color-accent:#D4AF37 ;
+  --color-gray:#B8B9B9 ;
+  --color-softwhite:#F2F3F5 ;
+  --color-gold:#D4AF37 ;
 }
 /* In your main CSS file or a dedicated custom CSS file */
 .custom-scrollbar::-webkit-scrollbar {
